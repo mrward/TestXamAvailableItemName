@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Test.Xam.AvailableItemName</id>
+    <version>0.1.0</version>
+    <authors>mattward</authors>
+    <owners>mattward</owners>
+    <licenseUrl>https://github.com/mrward/XamTestMSBuildSdk</licenseUrl>
+    <projectUrl>https://github.com/mrward/XamTestMSBuildSdk</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Test Available item name</description>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+  <files>
+    <file src="build/**" target="build" />
+  </files>
+</package>
