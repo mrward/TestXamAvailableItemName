@@ -1,5 +1,6 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <AvailableItemName Include="TestXamAvailableItem" />
-  </ItemGroup>
+    <AvailableItemName Include="TestXamAvailableItemUpdated" />
+   </ItemGroup>
 </Project>
